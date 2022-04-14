@@ -7,6 +7,11 @@ body {
     font-family: "Heveltica";
 }
 
+body h5 {
+    font-family: "Oswald";
+}
+
+
 
 /*Navbar*/
 .navbar{
@@ -35,14 +40,15 @@ body {
 
 #Hero-Section div{
     position: absolute;
-    bottom: 105px;
+    bottom: 5px;
     left: 0;
     right: 0;
     margin: auto;
 }
 
 .hero-line{
-    width: 345px;
+    width: 34px;
+    color:white;
 }
 
 #Hero-Section h1 {
